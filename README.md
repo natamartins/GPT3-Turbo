@@ -3,7 +3,7 @@
   GPT3-Turbo v2
 </h1>
     
-<h2 id="project">📁 Projeto </h2>
+<h2 id="project">📁 Project </h2>
 <p>This is a project I did to learn Java! It's a basic api that sends a prompt to the open ai api and returns a response!</p>
 
 <h2 id="tecnology">💻 Technology</h2>
